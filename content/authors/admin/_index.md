@@ -1,16 +1,12 @@
 ---
 # Display name
-title: 田猛
+title: 智能系统感知控制优化课题
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
-# Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
 # Pronouns (optional)
-pronouns: he/him
+pronouns: 武汉理工大学
 
 # Status emoji
 status:
