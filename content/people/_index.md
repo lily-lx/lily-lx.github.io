@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
