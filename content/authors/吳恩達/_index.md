@@ -2,7 +2,7 @@
 title: Alice Wu 吳恩達
 first_name: Alice
 last_name: Wu
-superuser: false
+superuser: true
 
 role: Professor of Artificial Intelligence
 organizations:
