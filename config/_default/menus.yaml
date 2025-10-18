@@ -10,8 +10,8 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: People
-    url: /#people
+  - name: Talks
+    url: /#talk
     weight: 12
   - name: News
     url: /#news
